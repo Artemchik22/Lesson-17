@@ -1,0 +1,105 @@
+.img1{
+    width:50px;
+    height:50px;
+    border-radius: 50%;;
+}
+.img2{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    position: relative;
+    left: -15px;
+}
+.img3{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    position: relative;
+    left: -30px;
+}
+.img3:hover{
+    border: 2px solid gray;
+    width: 55px;
+    height: 55px;
+}
+.imgas{
+    display: flex;
+    height:50px;
+}
+.uk-card.uk-card-default.uk-card-hover.uk-card-body{
+    width: 400px;
+    height:260px;
+}
+.ppp{
+   display: flex;
+   justify-content: flex-end;
+   position: relative;
+   top:-67px;
+}
+.loll{
+    position: relative;
+    top:-55px;
+}
+.img1:hover{
+    border: 2px solid gray;
+    width: 55px;
+    height: 55px;
+}
+.img2:hover{
+    border: 2px solid gray;
+    width: 55px;
+    height: 55px;
+}
+hr {
+    width:400px;
+    background-color: gray;
+    height:1px;
+    position: static;
+}
+.forhhh{
+    position: relative;
+    left:-40px;
+    margin-top: 20px;
+}
+.aaa1{
+    position: relative;
+    left:-10px;
+}
+.aaa2{
+    position: relative;
+    top:-24px;
+    left:24px;
+}
+.aaa3{
+    position: relative;
+    top:-46px;
+    left:57px;
+}
+.aaa4{
+    position: relative;
+    top:-72px;
+    left:310px;
+}
+.lolah{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.lol222{
+    display: flex;
+}
+.poslednaa{
+    margin-left: 460px;
+}
+.ppp3{
+    display:flex;
+    
+}
+.h2h2{
+   margin-top: 0px;
+}
+h2{
+    margin-left:250px;
+}
+.h1h1{
+
+}
